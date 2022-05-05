@@ -1,20 +1,20 @@
-****Freivald's Algorithm****
+#Freivald's Algorithm
 
 
 
 ***Input*** 
 
-**3 nxn Matrix m1, m2 test**  
+3 nxn Matrix m1, m2 test  
 
-**1 nx1 random 0/1 vector** 
+1 nx1 random 0/1 vector 
 
 ***Output*** : 
 
-**True if test = m1 x m2** 
+True if test = m1 x m2 
 
-**False if test /= m1 x m2**
+False if test /= m1 x m2
 
-***About the program***
+##About the program
 
 Haskell Program uses **Data.Matrix** to help with Martrix manipulations
 
