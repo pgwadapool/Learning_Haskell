@@ -1,4 +1,4 @@
-#Freivald's Algorithm
+# Freivald's Algorithm
 
 
 
@@ -14,7 +14,7 @@ True if test = m1 x m2
 
 False if test /= m1 x m2
 
-##About the program
+## About the program
 
 Haskell Program uses **Data.Matrix** to help with Martrix manipulations
 
