@@ -1,4 +1,4 @@
-***Freivald***
+****Freivald's Algorithm****
 
 
 
