@@ -4,9 +4,9 @@
 
 ***Input*** 
 
-**3 nxn Matrix m1, m2 test and ** 
+**3 nxn Matrix m1, m2 test and  
 
-**1 nx1 random 0/1 vector **
+**1 nx1 random 0/1 vector 
 
 ***Output*** : 
 
