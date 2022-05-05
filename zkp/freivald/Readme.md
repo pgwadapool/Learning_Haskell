@@ -17,7 +17,9 @@
 ***About the program***
 
 Haskell Program uses **Data.Matrix** to help with Martrix manipulations
+
 **UnsafeIO and Random** are used for random vector generation
+
 The implementation is still crude (cooked up in 20mins)
 
 Two test scenarious are also included in the code.
