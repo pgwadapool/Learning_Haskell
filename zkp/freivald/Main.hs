@@ -29,14 +29,14 @@ m2 = fromLists [[10,11],[12,13]]
 
 m3 = fromLists [[gr 33, gr 66],[gr 63,gr 43]]
 
--- Just a trial to genearte a matrix with only i,j
--- m4 = matrix 2 2 $ \(i,j) -> (2*i + j) `mod` 2
+-- Just a trial to genearte a matrix and fail
+m4 = matrix 2 2 $ \(i,j) -> (2*i + 10*j)
 
 test = multStd m1 m2
 
 -- pr is a positive test and pr_ is a negative test
 pr = freivald m1 m2 test m3
-pr_ = freivald m1 m2 m3 test
+pr_ = freivald m1 m4 test m3
 
 main = do
      putStrLn (" Inputs ")
