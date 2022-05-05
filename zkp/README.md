@@ -9,14 +9,11 @@ and set the package
 :set -package random
 ```
 
-**Input** 
-
-3 nxn Matrix m1, m2 test
+**Input** : 3 nxn Matrix m1, m2 test and 
 1 nx1 random 0/1 vector
 
-**Output**
-
-True if test = m1 x m2
+**Output** : 
+True if test = m1 x m2 and 
 False if test /= m1 x m2
 
 Haskell Program uses Data.Matrix to help with Martrix manipulations
