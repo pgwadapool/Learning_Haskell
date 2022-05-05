@@ -1,6 +1,6 @@
-***Programs while exploring ZKP
+***Programs while exploring ZKP***
 
-**Freivald
+**Freivald**
 
 Use ghci  
 and set the package
@@ -9,12 +9,12 @@ and set the package
 :set -package random
 ```
 
-**Input 
+**Input** 
 
 3 nxn Matrix m1, m2 test
 1 nx1 random 0/1 vector
 
-**Output
+**Output**
 
 True if test = m1 x m2
 False if test /= m1 x m2
